@@ -2,6 +2,7 @@
 
 ## <span style="color:red">Projects</span>
 
+- [<span style="color:red">Synthetic Intelligence, V0.9</span>](https://github.com/Unlimited-Research-Cooperative/Human-Brain-Rat)
 - [<span style="color:red">EEG prediction using chaos theory, and a CNN Kuramoto transformer RNN github</span>](https://github.com/Metaverse-Crowdsource/EEG-tES-Chaos-Neural-Net)
 - [<span style="color:red">Dark Flow, our cyberpunk MMORPG project at Metaverse Crowdsource</span>](https://discord.gg/HBHGvDxDmt)
 - [<span style="color:red">Bacteria neural network project starting soon on github</span>](https://github.com/Metaverse-Crowdsource/Bacteria-Neural-Network)
