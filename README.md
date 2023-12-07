@@ -15,7 +15,7 @@ for collaborations, press, questions, email me soul.syrupp@gmail.com or dm me on
 please test these and let me know if there are any problems, I'll put them in a library for human cortical organoid/spheroid, EEG, ECoG, and other signal analysis needs, once they're verified to be working fine
 
 https://pypi.org/project/higuchi-fractal/0.1.0/
-https://pypi.org/project/mfdfa1000hz/0.1.0/
+- https://pypi.org/project/mfdfa1000hz/0.1.0/
 https://pypi.org/project/phase-space-2d/0.1.0/
 https://pypi.org/project/phase-space-3d/0.1.0/
 https://pypi.org/project/spectral-entropy-signals/0.1.0/
