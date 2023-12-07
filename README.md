@@ -6,7 +6,7 @@
   bio silicon synergetic learning systems, we are prototyping our own BCI and MEA, currently working on fpga code and designing a pressurized biosafety cabinet with pass through
 
 - [<span style="color:red">EEG prediction using chaos theory, and a CNN Kuramoto transformer RNN github</span>](https://github.com/Metaverse-Crowdsource/EEG-tES-Chaos-Neural-Net)
-  signal analysis and prediction of brain signals, can be modified for other types of signals as well, also made pipy libraries from the experiments
+  signal analysis and prediction of brain signals, can be modified for other types of signals as well, also made pypi libraries from the experiments
   
 - [<span style="color:red">Dark Flow, our cyberpunk MMORPG project at Metaverse Crowdsource</span>](https://discord.gg/HBHGvDxDmt)
   opensource, FPS/TPS MMORPG with realistic graphics, deep philosophy, fast action, abiding by no regulations on content
