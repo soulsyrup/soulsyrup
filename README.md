@@ -14,16 +14,17 @@ for collaborations, press, questions, email me soul.syrupp@gmail.com or dm me on
 
 please test these and let me know if there are any problems, I'll put them in a library for human cortical organoid/spheroid, EEG, ECoG, and other signal analysis needs, once they're verified to be working fine
 
-    higuchi-fractal (0.1.0)
-    mfdfa1000hz (0.1.0)
-    phase-space-2d (0.1.0)
-    phase-space-3d (0.1.0)
-    spectral-entropy-signals (0.1.0)
-    spectral-centroids (0.1.1)
-    frequency-max-power (0.1.1)
-    spectral-edge-density (0.1.1)
-    transfer-entropy-hemispheric (0.1.0)
-    transfer-entropy-regional (0.1.0)
-    transfer-entropy-all-signals
-    STFTsignal
-    welchsPSD
+- [higuchi-fractal (0.1.0)](https://pypi.org/project/higuchi-fractal/0.1.0/)
+- [mfdfa1000hz (0.1.0)](https://pypi.org/project/mfdfa1000hz/0.1.0/)
+- [phase-space-2d (0.1.0)](https://pypi.org/project/phase-space-2d/0.1.0/)
+- [phase-space-3d (0.1.0)](https://pypi.org/project/phase-space-3d/0.1.0/)
+- [spectral-entropy-signals (0.1.0)](https://pypi.org/project/spectral-entropy-signals/0.1.0/)
+- [spectral-centroids (0.1.1)](https://pypi.org/project/spectral-centroids/0.1.1/)
+- [frequency-max-power (0.1.1)](https://pypi.org/project/frequency-max-power/0.1.1/)
+- [spectral-edge-density (0.1.1)](https://pypi.org/project/spectral-edge-density/0.1.1/)
+- [transfer-entropy-hemispheric (0.1.0)](https://pypi.org/project/transfer-entropy-hemispheric/0.1.0/)
+- [transfer-entropy-regional (0.1.0)](https://pypi.org/project/transfer-entropy-regional/0.1.0/)
+- [transfer-entropy-all-signals](https://pypi.org/project/transfer-entropy-all-signals/)
+- [STFTsignal](https://pypi.org/project/STFTsignal/)
+- [welchsPSD](https://pypi.org/project/welchsPSD/)
+
