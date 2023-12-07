@@ -19,7 +19,7 @@
   
 - [<span style="color:red">Player Two our custom no-rules AI chat at Neocadia Labs</span>](https://discord.gg/r2qUZMkGCB) 
   custom AI chatbots, abiding by no regulations on content
-  Try it now ( [PlayerTwo](https://app.playertwo.ai/#/) )
+  Try it now ( [PlayerTwo webapp](https://app.playertwo.ai/#/) )
 
 - [<span style="color:red">github page</span>](https://soulsyrup.github.io/)
  
