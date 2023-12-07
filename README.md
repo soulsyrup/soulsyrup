@@ -8,3 +8,6 @@
 - [<span style="color:red">Bacteria neural network project starting soon on github</span>](https://github.com/Metaverse-Crowdsource/Bacteria-Neural-Network)
 - [<span style="color:red">Player Two our custom no-rules AI chat at Neocadia Labs</span>](https://discord.gg/r2qUZMkGCB)
 - [<span style="color:red">norm github</span>](https://github.com/soulsyrup)
+
+
+for collaborations, press, questions, email me soul.syrupp@gmail.com or dm me on discord ( soul_syrup ) or tiktok ( soul.syrup )
