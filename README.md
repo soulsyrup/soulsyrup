@@ -4,14 +4,14 @@
 
 - [<span style="color:red">Synthetic Intelligence</span>](https://github.com/Unlimited-Research-Cooperative/Human-Brain-Rat)  
   bio silicon synergetic learning systems, we are prototyping our own BCI and MEA, currently working on FPGA code and designing a pressurized biosafety cabinet with pass through
-  ( [URC discord](https://discord.gg/rnurSVdwTr) )
+  URC ( [URC discord](https://discord.gg/rnurSVdwTr) )
   
 - [<span style="color:red">EEG prediction using chaos theory, and a CNN Kuramoto transformer RNN github</span>](https://github.com/Metaverse-Crowdsource/EEG-tES-Chaos-Neural-Net)  
   signal analysis and prediction of brain signals, can be modified for other types of signals as well, also made PyPI libraries from the experiments
   
 - [<span style="color:red">Dark Flow, our cyberpunk MMORPG project at Metaverse Crowdsource</span>](https://discord.gg/HBHGvDxDmt)  
   opensource, FPS/TPS MMORPG with realistic graphics, deep philosophy, fast action, abiding by no regulations on content
-  ( [Dark Flow website](https://mvcs.one) )
+  website ( [Dark Flow ](https://mvcs.one) )
 
 - [<span style="color:red">Bacteria neural network project starting soon on github</span>](https://github.com/Metaverse-Crowdsource/Bacteria-Neural-Network)  
   using bacteria as a neural network
