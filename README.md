@@ -32,7 +32,7 @@
 
  
 
-for collaborations, press, questions, email me soul.syrupp@gmail.com or dm me on discord ( soul_syrup ) or tiktok ( soul.syrup )
+for collaborations, press, questions, email me soul.syrupp@gmail.com or soul.syrup@yandex.com or dm me on discord ( soul_syrup ) or tiktok ( soul.syrup )
 
 please test these and let me know if there are any problems, I'll put them in a library for human cortical organoid/spheroid, EEG, ECoG, and other signal analysis needs, once they're verified to be working fine
 
