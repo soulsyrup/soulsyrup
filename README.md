@@ -3,7 +3,7 @@
 ## <span style="color:red">Projects</span>
 
 - [<span style="color:red">Synthetic Intelligence</span>](https://github.com/Unlimited-Research-Cooperative/Human-Brain-Rat)  
-  bio silicon synergetic learning systems, we are prototyping our own BCI and MEA, currently working on FPGA code and designing a pressurized biosafety cabinet with pass through
+  bio silicon synergetic learning systems, we are prototyping our own BCI and MEA, currently working on FPGA code and designing a pressurized biosafety cabinet with pass through (working on this at Synthetic Intelligence Labs)
 
   ( [URC discord](https://discord.gg/rnurSVdwTr) )
 
