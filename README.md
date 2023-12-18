@@ -5,7 +5,7 @@
 - [<span style="color:red">Synthetic Intelligence Labs</span>](https://github.com/Unlimited-Research-Cooperative/Human-Brain-Rat)  
   bio silicon synergetic learning systems, we are prototyping our own BCI and MEA, currently working on FPGA code and designing a pressurized biosafety cabinet with pass through 
 
-  ( [URC discord](https://discord.gg/rnurSVdwTr) )
+  ( [Unlimited Research Cooperative discord](https://discord.gg/rnurSVdwTr) )
 
 - [<span style="color:red">Human cortical organoid / spheroid signal analysis</span>](https://github.com/Unlimited-Research-Cooperative/human-cortical-organoid-signal-analysis)  
   signal analysis and prediction of brain signals, can be modified for other types of signals as well, also made PyPI libraries from the experiments
