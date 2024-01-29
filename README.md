@@ -37,6 +37,8 @@
 <br>
 🤝 Collaborative Milestones:
 
+- [**Bellande Robotics & Sensors Research Innovations Center**](https://github.com/Robotics-Sensors): HASEL Androids project (perfectly human androids).
+
 - **University of Michigan**: Advancing optical stimulation in "DishBrain" experiment replicas.
   
 - [**FinalSpark**](https://finalspark.com/): Delving into human cortical spheroid learning mechanisms.
