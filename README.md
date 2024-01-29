@@ -1,41 +1,55 @@
 # <span style="color:red">soul_syrup</span>
 
 ## <span style="color:red">Projects</span>
+<br><br>
+<div align="center">
+  <a href="https://www.patreon.com/synthetic_intelligence">
+    <img src="https://your-patreon-logo-url-here" alt="Support us on Patreon">
+  </a>
+  <br>
+  <a href="https://boosty.to/synthetic_intelligence">
+    <img src="https://your-boosty-logo-url-here" alt="Support us on Boosty">
+  </a>
+</div>
+<br>
 
-- [<span style="color:red">Synthetic Intelligence Labs</span>](https://github.com/Unlimited-Research-Cooperative/Human-Brain-Rat)  
-  bio silicon synergetic learning systems, we are prototyping our own BCI and MEA, currently working on software, GUI, FPGA code, and designing a pressurized biosafety cabinet with pass through 
+<h2 align="center">Projects</h2>
 
-  ( [Unlimited Research Cooperative discord](https://discord.gg/rnurSVdwTr) )
+<h3 align="center"><a href="https://github.com/Unlimited-Research-Cooperative/Human-Brain-Rat">Bio Silicon Synergetic Learning System</a></h3>
+<h3 align="center"><a href="https://github.com/Robotics-Sensors/HASEL-Android">Perfectly Human Androids</a></h3>
+<h3 align="center"><a href="https://github.com/Unlimited-Research-Cooperative/FastChatWithEmotionAnalyzer">Emotion+Irony+Sentiment analyzer for FastChat (can be used for text to animation for androids and avatars)</a></h3>
+<h3 align="center"><a href="https://github.com/Metaverse-Crowdsource/EEG-Chaos-Kuramoto-Neural-Net">EEG Analysis/Prediction using applied chaos/dynamical systems theory</a></h3>
+<h3 align="center"><a href="https://github.com/Unlimited-Research-Cooperative/human-cortical-organoid-signal-analysis">Human cortical organoids game systems, signal analysis, stimulation</a></h3>
+<h3 align="center"><a href="https://github.com/Unlimited-Research-Cooperative/HASEL-crab-bot">HASEL Crab Robots</a></h3>
+<h3 align="center"><a href="https://github.com/Unlimited-Research-Cooperative/Bacteria-Neural-Network">Bacterial neural nets (starting april 2024)</a></h3>
+<h3 align="center"><a href="https://github.com/Unlimited-Research-Cooperative/SecureVoiceComms-Pro">AES256 Encrypted Radio Dongle</a></h3>
+<h3 align="center"><a href="https://github.com/Unlimited-Research-Cooperative/SecureVoiceComms-Pro">AES256 Encrypted Radio Dongle</a></h3>
+<h3 align="center"><a href="https://app.playertwo.ai/#/">Player Two, our custom no-rules AI chat at Neocadia Labs, abiding by no regulations on content</a></h3>(https://discord.gg/r2qUZMkGCB)  
+<h3 align="center"><a href="https://discord.gg/HBHGvDxDmt">Dark Flow, our cyberpunk fps/tps MMORPG with realistic graphics at Metaverse Crowdsource</a></h3>(https://discord.gg/T4aSx5A4sa)(https://mvcs.one)
 
-- [<span style="color:red">Human cortical organoid / spheroid signal analysis</span>](https://github.com/Unlimited-Research-Cooperative/human-cortical-organoid-signal-analysis)  
-  signal analysis and prediction of brain signals, can be modified for other types of signals as well, also made PyPI libraries from the experiments
 
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+🤝 Collaborative Milestones:
+
+- **University of Michigan**: Advancing optical stimulation in "DishBrain" experiment replicas.
   
-- [<span style="color:red">EEG prediction using chaos theory, and a CNN Kuramoto transformer RNN github</span>](https://github.com/Metaverse-Crowdsource/EEG-tES-Chaos-Neural-Net)  
-  signal analysis and prediction of brain signals, can be modified for other types of signals as well, also made PyPI libraries from the experiments
-
+- [**FinalSpark**](https://finalspark.com/): Delving into human cortical spheroid learning mechanisms.
   
-- [<span style="color:red">Dark Flow, our cyberpunk MMORPG project at Metaverse Crowdsource</span>](https://discord.gg/HBHGvDxDmt)  
-  opensource, FPS/TPS MMORPG with realistic graphics, deep philosophy, fast action, abiding by no regulations on content
-
-  ( [Dark Flow website](https://mvcs.one) )
-  
-
-- [<span style="color:red">Bacteria neural network project starting soon on github</span>](https://github.com/Metaverse-Crowdsource/Bacteria-Neural-Network)  
-  using bacteria as a neural network
-
-  
-- [<span style="color:red">Player Two our custom no-rules AI chat at Neocadia Labs</span>](https://discord.gg/r2qUZMkGCB)  
-  custom AI chatbots, abiding by no regulations on content  
-
-  Try it now ( [PlayerTwo webapp](https://app.playertwo.ai/#/) )
+- [**University of Reading**](https://sites.google.com/site/complexlivingmachineslab): Innovative use of bacteria in neural networks.
 
 
-- [<span style="color:red">github page</span>](https://soulsyrup.github.io/)
-
+<br>
+<br>
+<br>
  
 
-for collaborations, press, questions, email me soul.syrupp@gmail.com or soul.syrup@yandex.com or dm me on discord ( soul_syrup ) or tiktok ( soul.syrup )
+For collaborations, press, questions, email me soul.syrupp@gmail.com or soul.syrup@yandex.com or dm me on discord ( soul_syrup ) or tiktok ( soul.syrup )
 
-please test this library for human brain  cortical organoid/spheroid, EEG, ECoG, and other signal analysis 
+Please test this library for human brain  cortical organoid/spheroid, EEG, ECoG, and other signal analysis 
 - [<span style="color:red"> Our Neural Signal Analysis PyPI library from Synthetic Intelligence Labs</span>](https://pypi.org/project/neural-signal-analysis/0.2.8/)  
