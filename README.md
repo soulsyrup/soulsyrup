@@ -23,8 +23,8 @@
 <h3 align="center"><a href="https://github.com/Unlimited-Research-Cooperative/HASEL-crab-bot">HASEL Crab Robots</a></h3>
 <h3 align="center"><a href="https://github.com/Unlimited-Research-Cooperative/Bacteria-Neural-Network">Bacterial neural nets (starting april 2024)</a></h3>
 <h3 align="center"><a href="https://github.com/Unlimited-Research-Cooperative/SecureVoiceComms-Pro">AES256 Encrypted Radio Dongle</a></h3>
-<h3 align="center"><a href="https://app.playertwo.ai/#/">Player Two, our custom no-rules AI chat at Neocadia Labs, abiding by no regulations on content</a></h3>(https://discord.gg/r2qUZMkGCB)  
-<h3 align="center"><a href="https://discord.gg/HBHGvDxDmt">Dark Flow, our cyberpunk fps/tps MMORPG with realistic graphics at Metaverse Crowdsource</a></h3>(https://discord.gg/T4aSx5A4sa)(https://mvcs.one)
+<h3 align="center"><a href="https://app.playertwo.ai/#/">Player Two, our custom no-rules AI chat at Neocadia Labs, abiding by no regulations on content</a></h3> (https://discord.gg/r2qUZMkGCB)  
+<h3 align="center"><a href="https://discord.gg/HBHGvDxDmt">Dark Flow, our cyberpunk fps/tps MMORPG with realistic graphics at Metaverse Crowdsource</a></h3> (https://discord.gg/T4aSx5A4sa) (https://mvcs.one)
 
 
 
