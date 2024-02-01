@@ -38,7 +38,7 @@
 <h2 align="center">Projects</h2>
 
 <h3 align="center"><a href="https://github.com/Unlimited-Research-Cooperative/Human-Brain-Rat">Bio Silicon Synergetic Learning System</a></h3>
-<h3 align="center"><a href="https://github.com/Robotics-Sensors/HASEL-Android">Perfectly Human Androids</a></h3>
+<h3 align="center"><a href="https://github.com/Unlimited-Research-Cooperative/Android-HASEL">Perfectly Human Androids</a></h3>
 <h3 align="center"><a href="https://github.com/Unlimited-Research-Cooperative/FastChatWithEmotionAnalyzer">Emotion+Irony+Sentiment analyzer for FastChat (can be used for text to animation for androids and avatars)</a></h3>
 <h3 align="center"><a href="https://github.com/Metaverse-Crowdsource/EEG-Chaos-Kuramoto-Neural-Net">EEG Analysis/Prediction using applied chaos/dynamical systems theory</a></h3>
 <h3 align="center"><a href="https://github.com/Unlimited-Research-Cooperative/human-cortical-organoid-signal-analysis">Human cortical organoids game systems, signal analysis, stimulation</a></h3>
@@ -57,8 +57,6 @@
 <br>
 <br>
 🤝 Collaborative Milestones:
-
-- [**Bellande Robotics & Sensors Research Innovations Center**](https://github.com/Robotics-Sensors): HASEL Androids project (perfectly human androids).
 
 - **University of Michigan**: Advancing optical stimulation in "DishBrain" experiment replicas.
   
