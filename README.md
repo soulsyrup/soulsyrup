@@ -64,13 +64,15 @@
   
 - [**University of Reading**](https://sites.google.com/site/complexlivingmachineslab): Innovative use of bacteria in neural networks.
 
+- [**City, University of London**](https://www.pinotsislab.com/): Systems and states, including harmonics in TES EEG data.
+
 
 <br>
 <br>
 <br>
  
 
-For collaborations, press, questions, email me soul.syrupp@gmail.com or soul.syrup@yandex.com or dm me on discord ( soul_syrup ) or tiktok ( soul.syrup )
+For collaborations, press, questions, email me soul.syrupp@gmail.com or soul.syrup@yandex.com or dm me on discord ( soul_syrup ) 
 
 Please test this library for human brain  cortical organoid/spheroid, EEG, ECoG, and other signal analysis 
 - [<span style="color:red"> Our Neural Signal Analysis PyPI library from Synthetic Intelligence Labs</span>](https://pypi.org/project/neural-signal-analysis/0.2.8/)  
