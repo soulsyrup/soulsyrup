@@ -62,10 +62,9 @@
   
 - [**FinalSpark**](https://finalspark.com/): Delving into human cortical spheroid learning mechanisms.
   
-- [**University of Reading**](https://sites.google.com/site/complexlivingmachineslab): Innovative use of bacteria in neural networks.
+- [**University of Reading**](https://sites.google.com/site/complexlivingmachineslab): Innovative use of bacteria as neural networks, a collaboration with Complex Living Machines Lab (Dr. Yoshikatsu Hayashi) 
 
-- [**City, University of London**](https://www.pinotsislab.com/): Systems and states, including harmonics in TES EEG data.
-
+- [**City, University of London**](https://www.pinotsislab.com/): Systems and states, including harmonics in TES EEG data, a collaboration with Pinotsis Lab, (Dr. Dimitris Pinotsis)
 
 <br>
 <br>
