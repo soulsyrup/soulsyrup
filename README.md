@@ -47,8 +47,7 @@
 <h3 align="center"><a href="https://github.com/Unlimited-Research-Cooperative/SecureVoiceComms-Pro">AES256 Encrypted Radio Dongle</a></h3>
 <h3 align="center"><a href="https://app.playertwo.ai/#/">Player Two, our custom no-rules AI chat at Neocadia Labs, abiding by no regulations on content</a></h3> (https://discord.gg/r2qUZMkGCB)  
 <h3 align="center"><a href="https://discord.gg/HBHGvDxDmt">Dark Flow, our cyberpunk fps/tps MMORPG with realistic graphics at Metaverse Crowdsource</a></h3> (https://discord.gg/UvphcuHWzb) (https://mvcs.one)
-
-
+<h3 align="center"><a href="https://github.com/Unlimited-Research-Cooperative/particle-accelerator-shielding-simulator">Particle Accelerator Shielding Simulation Software, built on Geant4</a></h3>
 
 
 <br>
