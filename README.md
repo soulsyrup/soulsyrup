@@ -63,7 +63,7 @@
   
 - [**University of Reading: Complex Living Machines Lab**](https://sites.google.com/site/complexlivingmachineslab): Innovative use of bacteria as neural networks with Dr. Yoshikatsu Hayashi
 
-- [**City, University of London: Pinostis Lab**](https://www.pinotsislab.com/): Systems and states, including harmonics in TES EEG data with Dr. Dimitris Pinotsis
+- [**City, University of London: Pinotsis Lab**](https://www.pinotsislab.com/): Systems and states, including harmonics in TES EEG data with Dr. Dimitris Pinotsis
 
 <br>
 <br>
